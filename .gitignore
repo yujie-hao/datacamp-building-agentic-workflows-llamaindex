@@ -1,0 +1,6 @@
+.idea
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
